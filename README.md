@@ -1,4 +1,4 @@
-# Tecnologies:
+# Technologies:
 Python, Google API, Jupyter Notebook, Machine Learning
 
 ---
