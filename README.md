@@ -1,6 +1,6 @@
 # Technologies:
 Python, Jupyter Notebook, Machine Learning, EDA
----
+
 
 
 # Predicting House Prices in Colombia
