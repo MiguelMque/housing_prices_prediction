@@ -9,7 +9,7 @@ Developed and using more than one million data given by property portal PROPERAT
 
 
 # Metrics
-- Achieved 0.2 (RMSLE) on principal cities (twenty) while predicting house
+- Achieved 0.2 (RMSLE) on principal cities (twenty).
 
 
 
