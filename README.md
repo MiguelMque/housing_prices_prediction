@@ -4,7 +4,7 @@ Python, Jupyter Notebook, Machine Learning, EDA
 
 
 # Predicting House Prices in Colombia
-Developed and using more than one million data given by property portal PROPERATI a model to predict house prices in Colombia
+Developed and using more than one million data given by property portal a model to predict house prices in Colombia
 
 
 
